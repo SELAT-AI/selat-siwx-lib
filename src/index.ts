@@ -14,7 +14,6 @@ export { solana } from "./chains/solana";
 export { bip322 } from "./chains/bip322";
 
 // Utilities
-export { formatMessage, parseMessage } from "./chains/message";
 export { generateNonce } from "./utils/nonce";
 export { AuthError } from "./utils/error";
 
