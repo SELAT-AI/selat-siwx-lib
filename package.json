@@ -1,6 +1,6 @@
 {
   "name": "@selat-ai/siwx-lib",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A shared SIWx library for EVM, Solana, and Bitcoin message creation, signing, and verification.",
   "license": "MIT",
   "type": "module",
